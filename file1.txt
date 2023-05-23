@@ -1,2 +1,4 @@
 manish
 second line in file3 at master branch
+adding one more line apart from master
+
